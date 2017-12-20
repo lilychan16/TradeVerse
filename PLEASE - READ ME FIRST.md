@@ -7,5 +7,6 @@ which aims to improve college students' involvement to the finance world.
 This project processed the stages of database development from conceptual and logical designs to SQL coding and prototyping.
 The SQL coding part consists of creating tables, inserting data, and writing sample queries.
 
-...Acquired hands-on experience with three other contributors in developing a database application using Oracle platform...
-...For more information, please go through files 1 to 7 in order...
+This project offered hands-on experience in developing a database application using Oracle platform.
+For more information, please go through files 1 to 7 in order. 
+Thank You!
